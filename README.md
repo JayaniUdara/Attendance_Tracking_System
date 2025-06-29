@@ -228,7 +228,7 @@ php artisan route:clear
 
 ```
 attendance-system/
-├── backend/                 # Laravel Backend
+├── attendance-backend/                 # Laravel Backend
 │   ├── app/
 │   │   ├── Http/Controllers/
 │   │   ├── Models/
@@ -239,7 +239,7 @@ attendance-system/
 │   │   └── ...
 │   ├── routes/
 │   └── ...
-├── frontend/               # React Frontend
+├── attendance-frontend/               # React Frontend
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
